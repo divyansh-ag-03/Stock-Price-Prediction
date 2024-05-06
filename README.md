@@ -6,12 +6,10 @@ training.<br>
 • Worked as a team enabling teamwork and collaboration.<br>
 
 The Application and the UI: <br>
+https://github.com/divyansh-ag-03/Stock-Price-Prediction/assets/88928715/665aa099-470c-4ecf-8a44-ef3036eddc97
 <p align="center">
-  <img width="460" height="300" src="https://github.com/divyansh-ag-03/Stock-Price-Prediction/assets/88928715/665aa099-470c-4ecf-8a44-ef3036eddc97">
-    *The Application Homepage*
+  <img src="https://github.com/divyansh-ag-03/Stock-Price-Prediction/assets/88928715/665aa099-470c-4ecf-8a44-ef3036eddc97">
 </p>
-![The Application Homepage](https://github.com/divyansh-ag-03/Stock-Price-Prediction/assets/88928715/665aa099-470c-4ecf-8a44-ef3036eddc97) <br>
-*The Application Homepage*
 
 Once the user clicks the “Predict Stock Trend” button, he/she is redirected to the predictions and analysis page. <br>
 
