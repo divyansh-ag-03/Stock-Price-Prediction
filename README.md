@@ -6,6 +6,9 @@ training.<br>
 • Worked as a team enabling teamwork and collaboration.<br>
 
 The Application and the UI: <br>
+<p align="center">
+    <img width="200" src="https://github.com/divyansh-ag-03/Stock-Price-Prediction/assets/88928715/665aa099-470c-4ecf-8a44-ef3036eddc97" alt="The Application Homepage">
+</p>
 ![The Application Homepage](https://github.com/divyansh-ag-03/Stock-Price-Prediction/assets/88928715/665aa099-470c-4ecf-8a44-ef3036eddc97) <br>
 *The Application Homepage*
 
